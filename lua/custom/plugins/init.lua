@@ -7,4 +7,5 @@ return {
     'wakatime/vim-wakatime',
     lazy = false,
   },
+  'ThePrimeagen/vim-be-good',
 }
